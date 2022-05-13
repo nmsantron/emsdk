@@ -1,6 +1,8 @@
 Emscripten SDK
 ==============
 
+https://thenewstack.io/what-is-webassembly-and-why-do-you-need-it/ 
+
 [![CircleCI](https://circleci.com/gh/emscripten-core/emsdk/tree/main.svg?style=svg)](https://circleci.com/gh/emscripten-core/emsdk/tree/main)
 
 The Emscripten toolchain is distributed as a standalone Emscripten SDK. The SDK
